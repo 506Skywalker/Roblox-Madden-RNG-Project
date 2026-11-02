@@ -14,7 +14,7 @@ Players pull football players through RNG mechanics (like rolling), with each pl
 
 ## Tech Stack
 
-- **Language:** Luau.
+- **Language:** Luau
 - **Libraries:** 
   - DataStoreService
   - ReplicatedStorage
