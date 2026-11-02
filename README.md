@@ -32,9 +32,6 @@ Players pull football players through RNG mechanics (like rolling), with each pl
 
 ## Setup
 
-Step-by-step: how does someone who just cloned your repo get it
-running?
-
 ```bash
 git clone https://github.com/506Skywalker/Roblox-Madden-RNG-project.git
 cd Roblox-Madden-RNG-Project
