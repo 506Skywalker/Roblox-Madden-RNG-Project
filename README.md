@@ -10,7 +10,7 @@ I like football, but I haven't really gotten into Madden. I've been reluctant to
 
 Players pull football players through RNG mechanics (like rolling), with each player having different rarities depending on ratings and positions. Players use their collected football players to build teams and compete against other players in Madden-styled matches. They earn money by playing these matches to pull for more characters.
 
-![System diagram](docs/Game-Flowchart.png)
+![System diagram](docs/System_Diagram.png)
 
 ## Tech Stack
 
